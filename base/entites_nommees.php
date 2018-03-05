@@ -18,7 +18,6 @@
 				"KEY type_entite" => "type_entite",
 				"KEY statut" => "statut",
 				"KEY date" => "date",
-				"KEY id_article" => "id_article",
 				"KEY id_article_statut" => "id_article,statut"
 		);
 		
